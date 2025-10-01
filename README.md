@@ -37,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
   <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
+  <img src="https://companieslogo.com/img/orig/SNPS-d0ea4223.png?t=1720244494" height="40" alt="Synopsys Design Compiler"/>
+
   
   <!-- General programming -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
