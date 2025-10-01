@@ -1,5 +1,5 @@
 <!-- Hero --> <h1>
-Hi, I'm Aritro and I like working on cool 💩
+Hi, I'm Aritro and I like working on digital systems design
 </h1>
 
 <p>
