@@ -38,11 +38,25 @@
 <p>
   <!-- quick, nice-looking icons -->
   <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/VHDL_logo.svg" height="32" alt="VHDL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Verilog_logo.svg" height="32" alt="Verilog"/>
+### Languages & Tools
+<p>
+  <!-- General programming -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,vscode" height="40"/>
+  
+  <!-- HDL logos -->
+  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
+  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
+
+  <!-- ML frameworks -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/CUDA_logo.svg" height="40" alt="CUDA"/>
+
+  <!-- EDA / Simulation tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
+  <img src="https://raw.githubusercontent.com/wiki/Paebbels/QuestaSim/logo/questasim.png" height="40" alt="QuestaSim"/>
+</p>
+
 </p>
 
 </p>
