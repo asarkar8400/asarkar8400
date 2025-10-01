@@ -37,5 +37,12 @@
 ### Languages & Tools
 <p>
   <!-- quick, nice-looking icons -->
-  <img src="https://skillicons.dev/icons?i=vscode,py,cpp,verilog,vhdl,git,linux" height="32"/>
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/VHDL_logo.svg" height="32" alt="VHDL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Verilog_logo.svg" height="32" alt="Verilog"/>
+</p>
+
 </p>
