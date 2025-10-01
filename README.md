@@ -13,13 +13,10 @@
 ### I am focused on FPGA/ASIC Research Problems
 
 - B.E. in **Electrical Engineering**
-- M.S. in **Computer Engineering** @ Stony Brook University
-- Discord: **ischleep**
+- Pursuing M.S. in **Computer Engineering** @ Stony Brook University
+- Discord: **i schleep**
 
 ---
-
-### Stats
-
 <!-- GitHub Readme Stats -->
 <p>
   <img height="170"
@@ -50,5 +47,4 @@
   <!-- ML frameworks -->
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="40" alt="TensorFlow"/>
-
 </p>
