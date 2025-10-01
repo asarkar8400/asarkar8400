@@ -1,5 +1,5 @@
 <!-- Hero --> <h1>
-Hi, I'm Aritro and I like fried chicken
+Hi, I'm Aritro and I like working on cool 💩
 </h1>
 
 <p>
