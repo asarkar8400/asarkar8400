@@ -2,14 +2,18 @@
 <h1>Hi there, I'm Aritro 👋</h1>
 
 <p>
-  <a href="https://www.linkedin.com/in/arisark/"><img src="https://img.shields.io/badge/WEBSITE-up-success?style=for-the-badge" /></a>
-  <a href="https://github.com/asarkar8400?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/arisark/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/asarkar8400?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/asarkar8400?label=Followers&style=for-the-badge">
+  </a>
 </p>
 
-### I am focused on FPGA/ASIC Design Problems
+### I am focused on FPGA/ASIC Research Problems
 
-- Bachelors of Engineering in **Electrical Engineering**
-- Currently I'm a Master's student studying Computer Engineering at Stony Brook University 
+- B.E. in **Electrical Engineering**
+- M.S. in **Computer Engineering** @ Stony Brook University
 - Discord: **ischleep**
 
 ---
@@ -18,21 +22,20 @@
 
 <!-- GitHub Readme Stats -->
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asarkar8400&show_icons=true&theme=dark&hide_title=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarkar8400&layout=compact&theme=dark" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarkar8400&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8" />
 </p>
 
-<!-- Optional: Profile Summary Cards -->
+<!-- Profile Summary Cards -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark" />
 </p>
 
 ---
 
 ### Languages & Tools
 <p>
-  <!-- Swap or add icons from https://devicon.dev -->
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <!-- quick, nice-looking icons -->
+  <img src="https://skillicons.dev/icons?i=vscode,py,cpp,verilog,vhdl,git,linux" height="32"/>
 </p>
