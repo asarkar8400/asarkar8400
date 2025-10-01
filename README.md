@@ -35,8 +35,8 @@ Hi, I'm Aritro and I like working on cool 💩
 ### Languages & Tools
 <p>
   <!-- HDL logos -->
-  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
+  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
   <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
   <img src="https://companieslogo.com/img/orig/SNPS-d0ea4223.png?t=1720244494" height="40" alt="Synopsys Design Compiler"/>
 
@@ -49,5 +49,5 @@ Hi, I'm Aritro and I like working on cool 💩
 
   <!-- ML frameworks -->
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 </p>
