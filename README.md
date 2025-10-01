@@ -44,7 +44,7 @@
   <!-- General programming -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
   <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="40" alt="CUDA"/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,vscode" height="40"/>
   
 
   <!-- ML frameworks -->
