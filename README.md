@@ -36,12 +36,7 @@
 
 ### Languages & Tools
 <p>
-  <!-- quick, nice-looking icons -->
-  <p>
-### Languages & Tools
-<p>
-
-    <!-- HDL logos -->
+  <!-- HDL logos -->
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
   <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
@@ -55,9 +50,5 @@
   <!-- ML frameworks -->
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="40" alt="TensorFlow"/>
-
-</p>
-
-</p>
 
 </p>
