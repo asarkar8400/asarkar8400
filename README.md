@@ -1,6 +1,3 @@
-<!-- Hero -->
-<h1>Hi there, I'm Aritro 👋</h1>
-
 <p>
   <a href="https://www.linkedin.com/in/arisark/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
