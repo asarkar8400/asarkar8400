@@ -1,12 +1,12 @@
 <!-- Hero -->
-<h1>Hi there, I'm YOUR_NAME 👋</h1>
+<h1>Hi there, I'm Aritro 👋</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/arisark/"><img src="https://img.shields.io/badge/WEBSITE-up-success?style=for-the-badge" /></a>
   <a href="https://github.com/asarkar8400?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge" /></a>
 </p>
 
-### I'm a YOUR_ROLE (e.g., Computational Neuroscientist, ML Dev, etc.)
+### I am focused on FPGA/ASIC Design Problems
 
 - Bachelors of Engineering in **Electrical Engineering**
 - Currently I'm a Master's student studying Computer Engineering at Stony Brook University 
@@ -18,7 +18,7 @@
 
 <!-- GitHub Readme Stats -->
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_title=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asarkar8400&show_icons=true&theme=dark&hide_title=false" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarkar8400&layout=compact&theme=dark" />
 </p>
 
