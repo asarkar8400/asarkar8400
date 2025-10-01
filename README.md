@@ -1,43 +1,49 @@
-<!-- ===== Two-column layout: LEFT = cards, RIGHT = Languages & Tools ===== -->
-<table>
-  <tr>
-    <!-- LEFT: stats/cards -->
-    <td width="58%" valign="top">
+<p>
+  <a href="https://www.linkedin.com/in/arisark/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/asarkar8400?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/asarkar8400?label=Followers&style=for-the-badge">
+  </a>
+</p>
 
-      <!-- Top Languages -->
-      <p>
-        <img height="170"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarkar8400&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8" />
-      </p>
+### I am focused on FPGA/ASIC Research Problems
 
-      <!-- Profile Summary Card -->
-      <p>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark"
-          width="100%" />
-      </p>
-    </td>
+- B.E. in **Electrical Engineering**
+- Pursuing M.S. in **Computer Engineering** @ Stony Brook University
+- Discord: **i schleep**
 
-    <!-- RIGHT: Languages & Tools -->
-    <td width="42%" valign="top">
-      <h3>Languages &amp; Tools</h3>
-      <p>
-        <!-- HDL logos -->
-        <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
-        <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
-        <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
-        <img src="https://dl.flathub.org/media/com/github/corna.Vivado/07ad2cd5a0a53383dce2081f799f9726/icons/128x128@2/com.github.corna.Vivado.png" height="40" alt="Vivado"/>
-        <img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" height="40" alt="Vitis HLS"/>
-        <img src="https://companieslogo.com/img/orig/SNPS-d0ea4223.png?t=1720244494" height="40" alt="Synopsys Design Compiler"/><br/>
+---
 
-        <!-- General / ML -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
-        <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="40" alt="CUDA"/>
-        <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,vscode" height="40" alt="Python,C,C++,Linux,VSCode"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-        <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Readme Stats -->
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarkar8400&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8" />
+</p>
+
+<!-- Profile Summary Cards -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark" width="500" height="200" />
+</p>
+
+---
+
+### Languages & Tools
+<p>
+  <!-- HDL logos -->
+  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
+  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
+  <img src="https://dl.flathub.org/media/com/github/corna.Vivado/07ad2cd5a0a53383dce2081f799f9726/icons/128x128@2/com.github.corna.Vivado.png" height="40" alt="Xilinx Vivado"/>
+  <img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" height="40" alt="Xilinx Vitis HLS"/>
+  <img src="https://companieslogo.com/img/orig/SNPS-d0ea4223.png?t=1720244494" height="40" alt="Synopsys Design Compiler"/>
+
+  <!-- General programming -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
+  <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="40" alt="CUDA"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,vscode" height="40"/>
+
+  <!-- ML frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+</p>
