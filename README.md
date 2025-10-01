@@ -40,21 +40,22 @@
   <p>
 ### Languages & Tools
 <p>
-  <!-- General programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,vscode" height="40"/>
-  
-  <!-- HDL logos -->
+
+    <!-- HDL logos -->
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
   <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
+  
+  <!-- General programming -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
+  <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="40" alt="CUDA"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,vscode" height="40"/>
+  
 
   <!-- ML frameworks -->
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/CUDA_logo.svg" height="40" alt="CUDA"/>
 
-  <!-- EDA / Simulation tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
-  <img src="https://raw.githubusercontent.com/wiki/Paebbels/QuestaSim/logo/questasim.png" height="40" alt="QuestaSim"/>
 </p>
 
 </p>
