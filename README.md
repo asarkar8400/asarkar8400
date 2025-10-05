@@ -40,7 +40,7 @@
   <!-- General programming -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
   <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="40" alt="CUDA"/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux" height="40"/>
 
   <!-- ML frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
