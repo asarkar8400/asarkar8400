@@ -9,7 +9,7 @@
 
 ### I am focused on FPGA/ASIC Design Problems
 
-- B.E. in **Electrical Engineering**
+- B.E. in **Electrical Engineering** @ Stony Brook University
 - Pursuing M.S. in **Computer Engineering** @ Stony Brook University
 - Discord: **i schleep**
 
