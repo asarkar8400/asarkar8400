@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### I am focused on FPGA/ASIC Problems
+### I am focused on FPGA/ASIC Design Problems
 
 - B.E. in **Electrical Engineering**
 - Pursuing M.S. in **Computer Engineering** @ Stony Brook University
