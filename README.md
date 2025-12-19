@@ -43,7 +43,5 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,linux" height="40"/>
 
   <!-- ML frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
 </p>
