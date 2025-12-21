@@ -9,7 +9,7 @@
 
 ### I am focused on RTL Design Problems
 
-- B.E. in **Electrical Engineering** @ Stony Brook University
+- B.E. in **Electrical Engineering** from Stony Brook University
 - Pursuing M.S. in **Computer Engineering** @ Stony Brook University
 - Discord: **i schleep**
 
