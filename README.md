@@ -17,7 +17,7 @@
 <br>
 Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a>
 &nbsp;
-<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="24" align="middle" alt="computer pixel gif">
+<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="30" align="middle" alt="computer pixel gif">
   </em>
 </p>
 
