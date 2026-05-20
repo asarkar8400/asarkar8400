@@ -13,10 +13,11 @@
        width="40"
        align="middle">
     <br><br>
-    <img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" height="24" alt="IBM logo">
-    <br>
-    Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a>
-          <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="30">
+<img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" height="28" alt="IBM logo">
+<br>
+Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a>
+&nbsp;
+<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="24" align="middle" alt="computer pixel gif">
   </em>
 </p>
 
