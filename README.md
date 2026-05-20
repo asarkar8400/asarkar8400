@@ -23,7 +23,6 @@
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asarkar8400&theme=github_dark" width="350" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asarkar8400&theme=github_dark" width="350" />
 </p>
 
 ---
@@ -54,8 +53,5 @@
   <img src="https://img.shields.io/badge/Xilinx-Vivado-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vitis-HLS-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/QuestaSim-Simulation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Verilator-Simulation-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GTKWave-Waveforms-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Synopsys-Design%20Compiler-red?style=for-the-badge" />
 </p>
