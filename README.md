@@ -28,6 +28,8 @@ Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=tokyonight" width="700" />
 </p>
 ---
+### Wanna Talk?
+<img src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 
 ### Languages & Tools
 <p>
