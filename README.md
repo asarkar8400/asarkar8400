@@ -1,3 +1,6 @@
+[![Linkedin: arisark](https://img.shields.io/badge/-arisark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arisark/)](https://www.linkedin.com/in/arisark/)
+[![GitHub asarkar8400](https://img.shields.io/github/followers/asarkar8400?label=follow&style=social)](https://github.com/asarkar8400)
+
 <h2> My Focus is on RTL Design and Verification <img src="https://media1.tenor.com/m/j6hODwAA_VQAAAAd/fat-luffy-fat-luffy-rubbing-belly.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/m/MQH07_OMD2oAAAAC/chill-cherry-blossom.gif" width="230">
 
@@ -14,9 +17,6 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
-
-[![Linkedin: arisark](https://img.shields.io/badge/-arisark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arisark/)](https://www.linkedin.com/in/arisark/)
-[![GitHub asarkar8400](https://img.shields.io/github/followers/asarkar8400?label=follow&style=social)](https://github.com/asarkar8400)
 
 ### GitHub Activity
 
