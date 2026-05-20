@@ -12,7 +12,7 @@
 <a href="https://www.stonybrook.edu/electrical/">Stony Brook University</a>
 <img src="https://media1.tenor.com/m/KVq7WxhhrUgAAAAd/electro-boom.gif"
      width="30"
-     style="position: relative; top: 6px;">
+     style="position: relative; top: 10px;">
     <br><br>
     <img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" height="24" alt="IBM logo">
     <br>
