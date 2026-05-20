@@ -22,8 +22,6 @@ Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a
   </em>
 </p>
 
-### GitHub Activity
-
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=tokyonight" width="700" />
 </p>
