@@ -10,7 +10,7 @@
 <h2> My Focus is on RTL Design and Verification <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em><img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="24" align="center" alt="Stony Brook University logo"/> &nbsp;BE in Electrical Engineering and MS in Computer Engineering from <a href="https://www.stonybrook.edu/electrical/">Stony Brook University</a><img src="https://tenor.com/view/electro-boom-gif-18170714" width="30">
+<p><em><img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="24" align="center" alt="Stony Brook University logo"/> &nbsp;BE in Electrical Engineering and MS in Computer Engineering from <a href="https://www.stonybrook.edu/electrical/">Stony Brook University</a><img src="https://media1.tenor.com/m/KVq7WxhhrUgAAAAd/electro-boom.gif" width="30">
 </br>Hardware Developer Engineer at <a href="https://www.ibm.com/us-en">IBM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
