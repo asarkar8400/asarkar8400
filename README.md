@@ -15,8 +15,6 @@
   </em>
 </p>
 
-- Discord: **i schleep**
-
 [![Linkedin: arisark](https://img.shields.io/badge/-arisark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arisark/)](https://www.linkedin.com/in/arisark/)
 [![GitHub asarkar8400](https://img.shields.io/github/followers/asarkar8400?label=follow&style=social)](https://github.com/asarkar8400)
 
