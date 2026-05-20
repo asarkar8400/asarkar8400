@@ -33,6 +33,7 @@ For Professional Opportunities:
 <a href="mailto:asark1@outlook.com">
   <img alt="Outlook Email" src="https://img.shields.io/badge/Outlook-asark1%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
+For Anything Else:
 <img src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 
 ### Languages & Tools
