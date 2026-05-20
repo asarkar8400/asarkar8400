@@ -15,14 +15,15 @@
 
 ---
 
-<!-- GitHub Readme Stats -->
+### GitHub Activity
+
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarkar8400&layout=compact&theme=dark&hide=Jupyter%20Notebook&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark" width="700" />
 </p>
 
-<!-- Profile Summary Cards -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark" width="500" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asarkar8400&theme=github_dark" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asarkar8400&theme=github_dark" width="350" />
 </p>
 
 ---
