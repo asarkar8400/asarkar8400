@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="36" alt="Stony Brook University logo">
+    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="48" alt="Stony Brook University logo">
     <br>
     BE and MS in ECE from <a href="https://www.stonybrook.edu/electrical/">Stony Brook University</a>
     <img src="https://media1.tenor.com/m/KVq7WxhhrUgAAAAd/electro-boom.gif" width="30">
