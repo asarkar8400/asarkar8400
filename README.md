@@ -30,8 +30,8 @@
 ### Languages & Tools
 <p>
   <!-- HDL logos -->
-  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/systemverilog_logo_color.png" height="40" alt="SystemVerilog"/>
-  <img src="https://raw.githubusercontent.com/marianoolmos/hdl_logos/refs/heads/main/vhdl_logo_color.png" height="40" alt="VHDL"/>
+  <img src="https://avatars2.githubusercontent.com/u/21169439?s=400&v=4" height="40" alt="SystemVerilog"/>
+  <img src="https://images.openai.com/static-rsc-4/GdEVJ34RQN-mRjzTf_3avTMuDIiG5VRyziGRe6tQSgOskfAC3IAOi7vtSHM7UL4ZitjCUnEvvhgD4KmromhTIiHYT_RhAZ6XSoaZtr9kejcZ09sgereLJToiHWvfX6S73gtZT98OSoOX3YVzSfZGjOlhLszAh9dbl-vdhkCmnDMXE6QlyFI7CO93ufGSS58Y?purpose=fullsize" height="40" alt="VHDL"/>
   <img src="https://gitlab.com/uploads/-/system/project/avatar/52703280/QuestaSim.png" height="40" alt="QuestaSim"/>
   <img src="https://dl.flathub.org/media/com/github/corna.Vivado/07ad2cd5a0a53383dce2081f799f9726/icons/128x128@2/com.github.corna.Vivado.png" height="40" alt="Xilinx Vivado"/>
   <img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" height="40" alt="Xilinx Vitis HLS"/>
