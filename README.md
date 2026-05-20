@@ -55,3 +55,11 @@
   <img src="https://img.shields.io/badge/QuestaSim-Simulation-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Synopsys-Design%20Compiler-red?style=for-the-badge" />
 </p>
+
+### HDL Mood
+
+```text
+clk   ──▁▁██▁▁██▁▁██▁▁██▁▁
+reset ──████▁▁▁▁▁▁▁▁▁▁▁▁▁
+valid ──▁▁▁▁████▁▁████▁▁▁▁
+data  ──XXXX  A5  XXXX  3C
