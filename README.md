@@ -27,8 +27,12 @@ Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=tokyonight" width="700" />
 </p>
----
+
 ### Wanna Talk?
+For Professional Opportunities:
+<a href="mailto:asark1@outlook.com">
+  <img alt="Outlook Email" src="https://img.shields.io/badge/Outlook-asark1%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
 <img src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 
 ### Languages & Tools
