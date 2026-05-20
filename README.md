@@ -45,3 +45,16 @@
   <!-- ML frameworks -->
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
 </p>
+
+
+### FPGA / EDA Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Xilinx-Vivado-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vitis-HLS-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QuestaSim-Simulation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Verilator-Simulation-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GTKWave-Waveforms-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Synopsys-Design%20Compiler-red?style=for-the-badge" />
+</p>
