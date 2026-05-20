@@ -10,7 +10,7 @@
     <br><br>
     <img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" height="24" alt="IBM logo">
     <br>
-    Hardware Developer Engineer at <a href="https://www.ibm.com/us-en">IBM</a>
+    Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
