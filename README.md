@@ -1,12 +1,3 @@
-<p>
-  <a href="https://www.linkedin.com/in/arisark/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/asarkar8400?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/asarkar8400?label=Followers&style=for-the-badge">
-  </a>
-</p>
-
 <h2> My Focus is on RTL Design and Verification <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/m/MQH07_OMD2oAAAAC/chill-cherry-blossom.gif" width="230">
 
@@ -16,7 +7,8 @@
 
 - Discord: **i schleep**
 
----
+[![Linkedin: arisark](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arisark/)](https://www.linkedin.com/in/arisark/)
+[![GitHub asarkar8400](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/asarkar8400)
 
 ### GitHub Activity
 
