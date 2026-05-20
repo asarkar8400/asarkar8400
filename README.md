@@ -40,7 +40,9 @@ Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a
   <tr>
     <td>For Anything Else:</td>
     <td>
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+      <a href="https://discord.com/users/233032375787847682">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
     </td>
   </tr>
 </table>
