@@ -30,13 +30,22 @@ Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a
 
 ### Wanna Talk?
 
-For Professional Opportunities:  
-<a href="https://www.linkedin.com/in/arisark/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-For Anything Else:  
-<img alt="Discord" src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<table>
+  <tr>
+    <td>For Professional Opportunities:</td>
+    <td>
+      <a href="https://www.linkedin.com/in/arisark/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>For Anything Else:</td>
+    <td>
+      <img alt="Discord" src="https://img.shields.io/badge/Discord-i%20schleep-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ### Languages & Tools
 <p>
