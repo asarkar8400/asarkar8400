@@ -7,11 +7,9 @@
   </a>
 </p>
 
-### I am focused on RTL Design and Verification
-
-- <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="24" align="center" alt="Stony Brook University logo"/> &nbsp; B.E. in **Electrical Engineering** from Stony Brook University
-
-- <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="24" align="center" alt="Stony Brook University logo"/> &nbsp; M.S. in **Computer Engineering** from Stony Brook University
+### My Focus is on RTL Design and Verification
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="24" align="center" alt="Stony Brook University logo"/> &nbsp; B.E. in **Electrical Engineering** from Stony Brook University
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="24" align="center" alt="Stony Brook University logo"/> &nbsp; M.S. in **Computer Engineering** from Stony Brook University
 - Discord: **i schleep**
 
 ---
@@ -21,11 +19,6 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asarkar8400&theme=github_dark" width="700" />
 </p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asarkar8400&theme=github_dark" width="350" />
-</p>
-
 ---
 
 ### Languages & Tools
