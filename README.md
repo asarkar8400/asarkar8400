@@ -1,4 +1,4 @@
-<h2> My Focus is on RTL Design and Verification <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> My Focus is on RTL Design and Verification <img src="https://media1.tenor.com/m/j6hODwAA_VQAAAAd/fat-luffy-fat-luffy-rubbing-belly.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/m/MQH07_OMD2oAAAAC/chill-cherry-blossom.gif" width="230">
 
 <p>
