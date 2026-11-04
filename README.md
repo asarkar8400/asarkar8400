@@ -6,7 +6,14 @@
 
 <p>
   <em>
-  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="48" alt="Stony Brook University logo">
+  
+<img src="https://zonalogo.com/assets/amd-logo-png-svg.webp?asset=3043" height="100" alt="AMD logo">
+<br>
+AI GPU RTL Design Engineer at <a href="https://www.amd.com">AMD</a>
+&nbsp;&nbsp;
+<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40" align="middle" alt="computer pixel gif">
+
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="48" alt="Stony Brook University logo">
   <br>
   BE and MS in ECE from 
   <a href="https://www.stonybrook.edu/electrical/">Stony Brook University</a>&nbsp;&nbsp;      
@@ -14,11 +21,6 @@
        width="40"
        align="middle">
     <br><br>
-<img src="https://zonalogo.com/assets/amd-logo-png-svg.webp?asset=3043" height="100" alt="AMD logo">
-<br>
-AI GPU RTL Design Engineer at <a href="https://www.amd.com">AMD</a>
-&nbsp;&nbsp;
-<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40" align="middle" alt="computer pixel gif">
   </em>
 </p>
 
