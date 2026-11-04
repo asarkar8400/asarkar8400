@@ -14,7 +14,7 @@
        width="40"
        align="middle">
     <br><br>
-<img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" height="28" alt="IBM logo">
+<img src="https://imgs.search.brave.com/ZqtWAAQsKjocig8ACbDglwUXZIB7EMukHVP9EEVXSUk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90b3Bw/bmcuY29tL3VwbG9h/ZHMvcHJldmlldy9h/ZHZhbmNlZC1taWNy/by1kZXZpY2VzLWFt/ZC1sb2dvLTExNzYw/MDM3MzAyZHpwa3Bu/aHdkZi53ZWJw" height="28" alt="AMD logo">
 <br>
 AI GPU RTL Design Engineer at <a href="https://www.amd.com">AMD</a>
 &nbsp;&nbsp;
