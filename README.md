@@ -16,7 +16,7 @@
     <br><br>
 <img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" height="28" alt="IBM logo">
 <br>
-Hardware Developer Engineer Intern at <a href="https://www.ibm.com/us-en">IBM</a>
+AI GPU RTL Design Engineer at <a href="https://www.amd.com">AMD</a>
 &nbsp;&nbsp;
 <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40" align="middle" alt="computer pixel gif">
   </em>
