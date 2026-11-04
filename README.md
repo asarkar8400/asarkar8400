@@ -14,7 +14,7 @@ AI GPU RTL Design Engineer at <a href="https://www.amd.com">AMD</a>
 <img width="80" height="48" alt="image" src="https://github.com/user-attachments/assets/77f26582-bd98-4fc7-8e05-e67bd88f4ae1" alt="AMD GPU">
 
 <br><br>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ec29b164-c4a9-429d-849a-9d6de6360986" height="48" alt="Stony Brook University logo">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ec29b164-c4a9-429d-849a-9d6de6360986" height="48" alt="Stony Brook University logo">
   <br>
   BE and MS in ECE from 
   <a href="https://www.stonybrook.edu/electrical/">Stony Brook University</a>&nbsp;&nbsp; <img src="https://media1.tenor.com/m/KVq7WxhhrUgAAAAd/electro-boom.gif"
