@@ -11,7 +11,7 @@
 <br>
 AI GPU RTL Design Engineer at <a href="https://www.amd.com">AMD</a>
 &nbsp;&nbsp;
-<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40" align="middle" alt="computer pixel gif">
+<img src="<img width="1298" height="770" alt="image" src="https://github.com/user-attachments/assets/60323839-6715-4499-bc6f-0e2a23781287" /> width="40" align="middle" alt="amd instinct gpu">
 <br><br>
 <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_200_200/company-logo_200_200/0/1630647027307/stony_brook_university_logo?e=1781136000&v=beta&t=neuO2FQ6FO3AAYzlYd2wZ7OJK85K2DzHkdz5eAL-bV0" height="48" alt="Stony Brook University logo">
   <br>
